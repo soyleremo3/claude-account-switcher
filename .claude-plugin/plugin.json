@@ -1,0 +1,9 @@
+{
+  "name": "account-switcher",
+  "version": "0.1.0",
+  "description": "Unofficial side panel to switch between your own Claude Code accounts on Windows, with sign-ins encrypted by Windows DPAPI.",
+  "author": { "name": "soyleremo3" },
+  "license": "MIT",
+  "repository": "https://github.com/soyleremo3/claude-account-switcher",
+  "types": "./types/index.d.ts"
+}

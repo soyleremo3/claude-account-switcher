@@ -1,0 +1,6 @@
+{
+  "name": "claude-account-switcher",
+  "description": "Unofficial side panel to switch between your own Claude Code accounts on Windows.",
+  "owner": { "name": "soyleremo3" },
+  "plugins": [{ "name": "account-switcher", "source": "./" }]
+}
